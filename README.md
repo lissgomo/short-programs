@@ -1,4 +1,3 @@
 ## Short Programs
 
-## **PURPOSE**
-#### For short programs that just do simple functions. 
+#### These programs might have very few actions or results. Mostly for testing and learning.
